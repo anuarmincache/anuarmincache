@@ -28,22 +28,47 @@ I develop computational solutions for scientific data analysis, machine learning
 
 ## 🚀 Selected Projects
 
-### 🛡️ [Blindagem-ML](https://github.com/220719/Blindagem-ML)
+<div align="center">
+
+<a href="https://github.com/220719/Blindagem-ML">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=Blindagem-ML&theme=transparent&hide_border=false" alt="Blindagem-ML" />
+</a>
+<a href="https://github.com/220719/consciencia-materiais">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=consciencia-materiais&theme=transparent&hide_border=false" alt="Consciência Materiais" />
+</a>
+
+<a href="https://github.com/220719/modern-data-stack">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=modern-data-stack&theme=transparent&hide_border=false" alt="Modern Data Stack" />
+</a>
+<a href="https://github.com/220719/observatorio-dengue">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=observatorio-dengue&theme=transparent&hide_border=false" alt="Observatório Dengue" />
+</a>
+
+<a href="https://github.com/220719/ia-redacao-cientifica-fisica">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=ia-redacao-cientifica-fisica&theme=transparent&hide_border=false" alt="AI for Scientific Writing and Physics" />
+</a>
+<a href="https://github.com/220719/Fisica-Computacional-1">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=Fisica-Computacional-1&theme=transparent&hide_border=false" alt="Computational Physics" />
+</a>
+
+</div>
+
+### 🛡️ Blindagem-ML
 Machine-learning-assisted software for ionizing radiation shielding analysis, combining predictive models with analytical physical calculations.
 
-### 🧬 [Consciência Materiais](https://github.com/220719/consciencia-materiais)
+### 🧬 Consciência Materiais
 Computational platform focused on materials science and intelligent analysis of scientific information.
 
-### ⚙️ [Modern Data Stack](https://github.com/220719/modern-data-stack)
+### ⚙️ Modern Data Stack
 Data engineering project integrating modern pipelines, analytics, machine learning and visualization technologies.
 
-### 📈 [Observatório Dengue](https://github.com/220719/observatorio-dengue)
+### 📈 Observatório Dengue
 Data science application for analysis and visualization of epidemiological information.
 
-### 📝 [AI for Scientific Writing & Physics](https://github.com/220719/ia-redacao-cientifica-fisica)
+### 📝 AI for Scientific Writing & Physics
 Resources connecting artificial intelligence, scientific writing, data analysis and physics research.
 
-### 🧮 [Computational Physics](https://github.com/220719/Fisica-Computacional-1)
+### 🧮 Computational Physics
 Numerical methods and Python applications for solving physics problems.
 
 ## 🛠️ Technologies
