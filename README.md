@@ -6,6 +6,12 @@
 
 **Connecting experimental science, scientific computing and artificial intelligence.**
 
+<br>
+
+<a href="https://orcid.org/0000-0001-8528-8020"><img src="https://img.shields.io/badge/ORCID-0000--0001--8528--8020-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="http://lattes.cnpq.br/9526608938362113"><img src="https://img.shields.io/badge/Currículo-Lattes-005CA9?style=for-the-badge" alt="Lattes" /></a>
+<a href="https://www.linkedin.com/in/anuar-mincache"><img src="https://img.shields.io/badge/LinkedIn-Anuar_Mincache-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </div>
 
 ---
@@ -15,6 +21,10 @@
 Physicist and software developer working at the intersection of **experimental science, scientific computing and artificial intelligence**.
 
 I develop computational solutions for scientific data analysis, machine learning, experimental instrumentation and AI-assisted research, with a focus on transforming scientific problems into reproducible computational tools.
+
+## 🎯 Current Focus
+
+**Scientific AI • Experimental Instrumentation • Materials Science • LLMs & RAG • Scientific Software**
 
 ## 🧪 Research & Development
 
