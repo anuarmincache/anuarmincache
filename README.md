@@ -30,25 +30,25 @@ I develop computational solutions for scientific data analysis, machine learning
 
 <div align="center">
 
-<a href="https://github.com/220719/Blindagem-ML">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=Blindagem-ML&theme=transparent&hide_border=false" alt="Blindagem-ML" />
+<a href="https://github.com/anuarmincache/Blindagem-ML">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=Blindagem-ML&theme=transparent&hide_border=false" alt="Blindagem-ML" />
 </a>
-<a href="https://github.com/220719/consciencia-materiais">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=consciencia-materiais&theme=transparent&hide_border=false" alt="Consciência Materiais" />
-</a>
-
-<a href="https://github.com/220719/modern-data-stack">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=modern-data-stack&theme=transparent&hide_border=false" alt="Modern Data Stack" />
-</a>
-<a href="https://github.com/220719/observatorio-dengue">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=observatorio-dengue&theme=transparent&hide_border=false" alt="Observatório Dengue" />
+<a href="https://github.com/anuarmincache/consciencia-materiais">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=consciencia-materiais&theme=transparent&hide_border=false" alt="Consciência Materiais" />
 </a>
 
-<a href="https://github.com/220719/ia-redacao-cientifica-fisica">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=ia-redacao-cientifica-fisica&theme=transparent&hide_border=false" alt="AI for Scientific Writing and Physics" />
+<a href="https://github.com/anuarmincache/modern-data-stack">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=modern-data-stack&theme=transparent&hide_border=false" alt="Modern Data Stack" />
 </a>
-<a href="https://github.com/220719/Fisica-Computacional-1">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=220719&repo=Fisica-Computacional-1&theme=transparent&hide_border=false" alt="Computational Physics" />
+<a href="https://github.com/anuarmincache/observatorio-dengue">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=observatorio-dengue&theme=transparent&hide_border=false" alt="Observatório Dengue" />
+</a>
+
+<a href="https://github.com/anuarmincache/ia-redacao-cientifica-fisica">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=ia-redacao-cientifica-fisica&theme=transparent&hide_border=false" alt="AI for Scientific Writing and Physics" />
+</a>
+<a href="https://github.com/anuarmincache/Fisica-Computacional-1">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=Fisica-Computacional-1&theme=transparent&hide_border=false" alt="Computational Physics" />
 </a>
 
 </div>
