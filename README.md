@@ -53,13 +53,6 @@ I develop computational solutions for scientific data analysis, machine learning
 <a href="https://github.com/anuarmincache/modern-data-stack">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=modern-data-stack&theme=transparent&hide_border=false" alt="Modern Data Stack" />
 </a>
-<a href="https://github.com/anuarmincache/observatorio-dengue">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=observatorio-dengue&theme=transparent&hide_border=false" alt="Observatório Dengue" />
-</a>
-
-<a href="https://github.com/anuarmincache/ia-redacao-cientifica-fisica">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=ia-redacao-cientifica-fisica&theme=transparent&hide_border=false" alt="AI for Scientific Writing and Physics" />
-</a>
 <a href="https://github.com/anuarmincache/Fisica-Computacional-1">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=Fisica-Computacional-1&theme=transparent&hide_border=false" alt="Computational Physics" />
 </a>
