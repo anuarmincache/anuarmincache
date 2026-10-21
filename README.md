@@ -16,6 +16,25 @@
 
 ---
 
+## Featured Project · rie-agent
+
+<div align="center">
+
+<a href="https://github.com/anuarmincache/rie-agent"><img src="https://raw.githubusercontent.com/anuarmincache/rie-agent/main/assets/rie-agent-banner.svg" width="100%" alt="rie-agent — physics-guided Rietveld refinement" /></a>
+
+<br />
+
+<a href="https://github.com/anuarmincache/rie-agent"><img src="https://img.shields.io/badge/Explore-rie--agent-215C7A?style=for-the-badge&logo=github&logoColor=white" alt="Explore rie-agent" /></a>
+<a href="https://github.com/anuarmincache/rie-agent/blob/main/docs/ROADMAP.md"><img src="https://img.shields.io/badge/Status-Active%20Development-F59E0B?style=for-the-badge" alt="Active development" /></a>
+
+</div>
+
+**rie-agent** is a research-oriented, physics-guided agent for staged Rietveld refinement with **GSAS-II**, deterministic physical validation, checkpoint/rollback and optional **Ollama-assisted planning**. Current work focuses on benchmarking the workflow for Nd-doped BiFeO₃ powder diffraction.
+
+**[Explore the repository →](https://github.com/anuarmincache/rie-agent)** · **[Development roadmap](https://github.com/anuarmincache/rie-agent/blob/main/docs/ROADMAP.md)**
+
+---
+
 ## 🔬 About Me
 
 Physicist and software developer working at the intersection of **experimental science, scientific computing and artificial intelligence**.
