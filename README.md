@@ -82,7 +82,7 @@ I develop computational solutions for scientific data analysis, machine learning
 
 </div>
 
-### 🔬 rie-agent
+### 🔬 Rie-agent
 AI-assisted Rietveld refinement using GSAS-II, automated workflows and physics-based validation for crystallographic analysis.
 
 ### 🛡️ Blindagem-ML
