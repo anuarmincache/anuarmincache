@@ -59,6 +59,9 @@ I develop computational solutions for scientific data analysis, machine learning
 
 <div align="center">
 
+<a href="https://github.com/anuarmincache/rie-agent">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=rie-agent&theme=transparent&hide_border=false" alt="rie-agent — Physics-guided Rietveld refinement" />
+</a>
 <a href="https://github.com/anuarmincache/semana-da-fisica-2026">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=semana-da-fisica-2026&theme=transparent&hide_border=false" alt="Semana da Física 2026" />
 </a>
