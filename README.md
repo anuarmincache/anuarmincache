@@ -15,6 +15,11 @@
 </div>
 
 ---
+## 🔬 About Me
+
+Physicist and software developer working at the intersection of **experimental science, scientific computing and artificial intelligence**.
+
+I develop computational solutions for scientific data analysis, machine learning, experimental instrumentation and AI-assisted research, with a focus on transforming scientific problems into reproducible computational tools.
 
 ## Featured Project · rie-agent
 
@@ -35,11 +40,7 @@
 
 ---
 
-## 🔬 About Me
 
-Physicist and software developer working at the intersection of **experimental science, scientific computing and artificial intelligence**.
-
-I develop computational solutions for scientific data analysis, machine learning, experimental instrumentation and AI-assisted research, with a focus on transforming scientific problems into reproducible computational tools.
 
 ## 🎯 Current Focus
 
