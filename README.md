@@ -40,7 +40,30 @@ I develop computational solutions for scientific data analysis, machine learning
 
 ---
 
+## 🌍 Projeto em desenvolvimento · NAPI GeoAI
 
+<div align="center">
+
+<a href="https://github.com/anuarmincache/napi-geoai">
+  <img src="https://raw.githubusercontent.com/anuarmincache/napi-geoai/main/assets/napi-geoai-banner.svg" width="100%" alt="NAPI GeoAI — plataforma inteligente de análise geoespacial para planejamento energético sustentável" />
+</a>
+
+<br>
+
+<a href="https://github.com/anuarmincache/napi-geoai">
+  <img src="https://img.shields.io/badge/GitHub-NAPI%20GeoAI-163448?style=for-the-badge&logo=github&logoColor=white" alt="Repositório NAPI GeoAI" />
+</a>
+<a href="https://github.com/anuarmincache/napi-geoai/blob/main/ROADMAP.md">
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-F0B429?style=for-the-badge" alt="Em desenvolvimento" />
+</a>
+
+</div>
+
+**NAPI GeoAI** — plataforma de pesquisa e desenvolvimento para integração de dados geoespaciais, análise territorial e planejamento energético sustentável. Projeto liderado por **Anuar Mincache**, membro do NAPI Energia Zero Carbono. Primeiro caso de uso planejado: avaliação preliminar da aptidão solar no Paraná. **Ainda não existem resultados científicos validados ou aplicação em produção.**
+
+**[Explorar projeto →](https://github.com/anuarmincache/napi-geoai)** · **[Roteiro de desenvolvimento](https://github.com/anuarmincache/napi-geoai/blob/main/ROADMAP.md)**
+
+---
 
 ## 🎯 Current Focus
 
@@ -59,6 +82,10 @@ I develop computational solutions for scientific data analysis, machine learning
 ## 🚀 Selected Projects
 
 <div align="center">
+
+<a href="https://github.com/anuarmincache/napi-geoai">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=napi-geoai&theme=transparent&hide_border=false" alt="NAPI GeoAI — Em desenvolvimento" />
+</a>
 
 <a href="https://github.com/anuarmincache/rie-agent">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=rie-agent&theme=transparent&hide_border=false" alt="rie-agent — Physics-guided Rietveld refinement" />
