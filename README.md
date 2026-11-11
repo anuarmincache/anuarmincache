@@ -1,12 +1,6 @@
 <div align="center">
 
-# Anuar J. Mincache, PhD
-
-### ⚛️ Experimental Physics • 🤖 Artificial Intelligence • 📊 Data Science
-
-**Connecting experimental science, scientific computing and artificial intelligence.**
-
-<br>
+<img src="assets/profile-banner.svg" alt="Anuar J. Mincache, PhD — Experimental Physics, Artificial Intelligence, Data Science" width="100%" />
 
 <a href="https://orcid.org/0000-0001-8528-8020"><img src="https://img.shields.io/badge/ORCID-0000--0001--8528--8020-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="http://lattes.cnpq.br/9526608938362113"><img src="https://img.shields.io/badge/Currículo-Lattes-005CA9?style=for-the-badge" alt="Lattes" /></a>
