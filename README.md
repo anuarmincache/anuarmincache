@@ -30,14 +30,6 @@ I develop computational solutions for scientific data analysis, machine learning
 <a href="https://github.com/anuarmincache/napi-geoai"><img src="https://img.shields.io/badge/Explorar-NAPI%20GeoAI-12425D?style=for-the-badge&logo=github&logoColor=white" alt="Explorar o NAPI GeoAI"/></a>
 <a href="https://github.com/anuarmincache/napi-geoai/blob/main/ROADMAP.md"><img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-F7BC3E?style=for-the-badge&labelColor=283C4F" alt="Em desenvolvimento"/></a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
 </div>
 
 **NAPI GeoAI** é uma plataforma científica **em desenvolvimento** para conectar dados territoriais oficiais, geoprocessamento, análise de aptidão energética e mapas interativos. O primeiro estudo planejado é a aptidão territorial preliminar para energia fotovoltaica no Paraná.
