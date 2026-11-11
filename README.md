@@ -58,50 +58,150 @@ I develop computational solutions for scientific data analysis, machine learning
 
 ## 🚀 Selected Projects
 
-<div align="center">
+### Physics, Materials & Scientific AI
 
-<a href="https://github.com/anuarmincache/rie-agent">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=rie-agent&theme=transparent&hide_border=false" alt="rie-agent — Physics-guided Rietveld refinement" />
-</a>
-<a href="https://github.com/anuarmincache/semana-da-fisica-2026">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=semana-da-fisica-2026&theme=transparent&hide_border=false" alt="Semana da Física 2026" />
-</a>
-<a href="https://github.com/anuarmincache/Blindagem-ML">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=Blindagem-ML&theme=transparent&hide_border=false" alt="Blindagem-ML" />
-</a>
-<a href="https://github.com/anuarmincache/consciencia-materiais">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=consciencia-materiais&theme=transparent&hide_border=false" alt="Consciência Materiais" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/anuarmincache/modern-data-stack">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=modern-data-stack&theme=transparent&hide_border=false" alt="Modern Data Stack" />
-</a>
-<a href="https://github.com/anuarmincache/Fisica-Computacional-1">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anuarmincache&repo=Fisica-Computacional-1&theme=transparent&hide_border=false" alt="Computational Physics" />
-</a>
-
-</div>
-
-### 🔬 Rie-agent
+### 🔬 [rie-agent](https://github.com/anuarmincache/rie-agent)
 AI-assisted Rietveld refinement using GSAS-II, automated workflows and physics-based validation for crystallographic analysis.
 
-### 🛡️ Blindagem-ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [Semana da Física 2026](https://github.com/anuarmincache/semana-da-fisica-2026)
+Pipeline for X-ray diffraction (XRD) analysis with Python and machine learning, built for the UEM Physics Week.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Blindagem-ML](https://github.com/anuarmincache/Blindagem-ML)
 Machine-learning-assisted software for ionizing radiation shielding analysis, combining predictive models with analytical physical calculations.
 
-### 🧬 Consciência Materiais
-Computational platform focused on materials science and intelligent analysis of scientific information.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚙️ Modern Data Stack
-Data engineering project integrating modern pipelines, analytics, machine learning and visualization technologies.
+</td>
+<td width="50%" valign="top">
 
-### 📈 Observatório Dengue
-Data science application for analysis and visualization of epidemiological information.
+### 🧬 [Consciência Materiais](https://github.com/anuarmincache/consciencia-materiais)
+Collaborative ferroic materials database from the GDDM group at UEM: researchers register materials and lattice parameters with ORCID login, with AI-assisted extraction from DOIs and PDFs.
 
-### 📝 AI for Scientific Writing & Physics
-Resources connecting artificial intelligence, scientific writing, data analysis and physics research.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🧮 Computational Physics
-Numerical methods and Python applications for solving physics problems.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧲 [Revisão Hipertermia](https://github.com/anuarmincache/revisao-hipertermia)
+Collaborative platform for a systematic review of magnetic hyperthermia in cancer therapy, with PDF extraction, a structured database, semantic search and a RAG chat over the literature.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ [Specula](https://github.com/anuarmincache/specula-rt01)
+Centelha 3 PR project: simulation-based proof of concept for early coffee leaf rust detection, combining the PROSPECT-D leaf model, an AS7265x spectral sensor and Monte Carlo analysis of a leaf cohort.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### Data Science & Geospatial
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Modern Data Stack](https://github.com/anuarmincache/modern-data-stack)
+Arbovirus observatory for 31 municipalities (2020–2025) with InfoDengue and Open-Meteo data, DuckDB, dbt, Random Forest, MLflow, FastAPI and Streamlit. Kafka, MinIO and Airflow run as a local lab.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Observatório Dengue](https://github.com/anuarmincache/observatorio-dengue)
+Dengue × climate observatory for Maringá, with a remote sensing layer.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ [Maringá Urbano](https://github.com/anuarmincache/maringa-urbano)
+Urban intelligence platform for Maringá-PR using GeoPandas, K-Means and an urban quality index (IQU) built from OpenStreetMap and IBGE Census 2022.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### Teaching & Learning Resources
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 [Computational Physics](https://github.com/anuarmincache/Fisica-Computacional-1)
+Computational Physics 1 course with Python at UEM (2025): numerical methods applied to physics problems in Jupyter notebooks.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [AI for Scientific Writing & Physics](https://github.com/anuarmincache/ia-redacao-cientifica-fisica)
+Artificial intelligence, Python and Google Colab applied to the analysis of scientific experiments and technical writing.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Statistics with Python](https://github.com/anuarmincache/curso-estatistica-python)
+Ten-lesson Statistics course with Python using IBGE/SIDRA data.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 [Python with Colab](https://github.com/anuarmincache/curso-python-colab)
+Introductory Python course on Google Colab for Systems Analysis and Computer Engineering students.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ [PostgreSQL Handbook](https://github.com/anuarmincache/banco-de-dados-postgresql)
+Didactic handout on relational databases with PostgreSQL, using an e-commerce case study.
+
+
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ## 🛠️ Technologies
 
